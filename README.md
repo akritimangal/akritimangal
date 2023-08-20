@@ -6,9 +6,9 @@ Problem Solver and Developer
 
 * 🌍  I'm based in Jaipur.
 * ✉️  You can contact me at [akritimangal@gmail.com](mailto:akritimangal@gmail.com)
-* 🧠  I'm learning Flutter Development💙
+* 🧠  I'm learning Flutter Development and Web Development.
 * 🤝  I'm open to collaborating on Interesting projects based on frontend development, flutter development or python.
-* ⚡  I love learning new technologies.
+* ⚡  I love learning new technologies and expand my skill set.
 
 ### Skills
 
